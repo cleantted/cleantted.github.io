@@ -114,7 +114,7 @@ VRChatと競技プログラミングに興味がある人のためのDiscordも�
 - 業務で使用したことがあるもの
   - 開発言語: C++, Python3, bash, Rust
   - 開発支援ツール: gdb, perf, systemtap, valgrind
-  - CL/CI: Jenkins
+  - CI/CD: Jenkins
   - OS: CentOS
   - クラウド: AWS(EC2, S3, Athena, CloudWatch, Glue job)
   - DB: SQLite
