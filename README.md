@@ -83,7 +83,7 @@ VRChatと競技プログラミングに興味がある人のためのDiscordも�
 
 ### 理系集会
 
-- 第15回VRC理系集会特別講演「ひとくち地学 ～プレートテクトニクス～」([YouTUbe](https://youtu.be/J6g4PtNpiiY))
+- 第15回VRC理系集会特別講演「ひとくち地学 ～プレートテクトニクス～」([YouTube](https://youtu.be/J6g4PtNpiiY))
 
 ### RTA解説
 
@@ -115,7 +115,7 @@ VRChatと競技プログラミングに興味がある人のためのDiscordも�
 # 経験言語とツール
 
 - 業務で使用したことがあるもの
-  - 開発言語: C++, Python3, bash, Rust
+  - 開発言語: C++, Python3, bash, Rust, Typescript, React(Next.js), Kotlin
   - 開発支援ツール: gdb, perf, systemtap, valgrind
   - CI/CD: Jenkins
   - OS: CentOS
